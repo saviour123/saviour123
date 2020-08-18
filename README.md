@@ -1,4 +1,4 @@
-🔭 I’m currently working at Andela Inc.([Noodle Partners](https://www.noodle.com)
+🔭 I’m currently working at Andela Inc.([Noodle Partners](https://www.noodle.com))
 
 👯 I’m looking to collaborate on all things(Infrastructure, Python, Dotnet, Go, Ruby)
 
