@@ -1,4 +1,4 @@
-🔭 Software Engineer with an eagerness to learn anything and everything.
+🔭 Infrastructure Engineer with an eagerness to learn anything and everything.
 
 👯 I’m looking to collaborate on all things(Infrastructure, Python, Dotnet, Go, Ruby)
 
